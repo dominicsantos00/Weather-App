@@ -7,3 +7,5 @@ Submit: Press Enter or click the Search icon.
 View Details: The app will display the current temperature, humidity, and weather description.
 
 Note: If the weather doesn’t load, ensure your API key is correctly inserted in the source code.
+
+
